@@ -35,7 +35,7 @@ It's recommended that you run `npm start` and work on this in the browser
 built out the components below, run `npm test` to see if your code passes the
 tests.
 
-### NavBar
+### NavBarreact-hooks-lists-and-keys-lab
 
 In the `NavBar` component, there is an array with three strings representing
 each link on the page. For each of those strings, create an `<a>` tag that looks
